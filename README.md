@@ -1,2 +1,2 @@
 # infrastructure-manage
-Initialize Cluster for Source Shift
+Initialize Cluster
